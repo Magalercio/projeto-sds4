@@ -1,0 +1,1 @@
+Testando se o git conseguiu salvar as credencias para nao precisar ficar entrando todas as vezes manualmente.
